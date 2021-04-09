@@ -6,7 +6,7 @@ var alunos = [
     'Daniel Bevilacqua Da Mata Pereira',
     'Emerson De Mello Ramos',
     'Erich Kenupp Ulrichsen Marcelino',
-    'Everton Da Silva Macedo',
+    'Everton Da Silva Macedo', 
     'Gabriela Medeiros Prizo',
     'Gabriel Gaspar Esteves',
     'Giovanne Menezes Lopes',

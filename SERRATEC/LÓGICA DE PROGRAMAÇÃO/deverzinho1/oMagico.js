@@ -1,0 +1,1 @@
+console.log(`Olá hoje farei uma mágica, escreverei 3 palavras sem sair do papel huhuahuaha \n Bibiti \n Bobiti \n Boom`)

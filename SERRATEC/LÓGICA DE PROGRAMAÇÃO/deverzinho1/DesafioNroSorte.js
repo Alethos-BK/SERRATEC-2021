@@ -9,3 +9,4 @@ console.log(mamae + " Ah esse era o de mamãe. O meu é " + nSorte);
 
 nSorte = 20;
 console.log("Já decidi: é " + nSorte + "! Bingo :)");
+ 

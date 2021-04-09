@@ -51,4 +51,4 @@ var pagamento = ler("Qual será sua forma de pagamento? DINHEIRO OU CARTAO: ");
       console.log ("OK, VAMOS ENVIAR SEU RECIBO", nome);
   }
   }
-   console.log ("BOA VIAGEM", nome);
+   console.log ("SENHOR(a) " + nome + " O VALOR TOTAL DA SUA VIAGEM É DE: R$" + total.toFixed(2) + "TENHA UMA BOA VIAGEM!!");

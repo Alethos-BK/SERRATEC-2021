@@ -11,8 +11,10 @@ var cidade = ler("Qual das opções você gostaria de comprar?  Konoha, , Spring
 
 if(cidade == "Konoha"){
     console.log("UOLLLLL ótima escolha para o destino Konoha temos ótimos pacotes esperando por você");
-    console.log("===== PACOTE 1 ====")
-    console.log("No nosso primeiro pacote temos")
+    console.log("===== PACOTE SIMPLES ====")
+    console.log("No nosso primeiro pacote você passará um dia inteirinho na vila da folha")
+    console.log("Seu guia será o Konohamaru e pela")
+
 }
 // console.log("Parabéns você acaba de comprar o pacote ", pacote );
 // console.log("Agora você precisa acrescentar as vantagens de serviços disponíveis pra sua opção");

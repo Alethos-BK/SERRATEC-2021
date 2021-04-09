@@ -11,4 +11,4 @@ console.log(` No final do curso também espero me considerar uma iniciante(ou ve
 Também desejo criar um ídeia revolucionaria aprendo mais como funciona o mundo da programação
 ;\n Espero ser capaz de criar meus próprios sites e se Deus quiser conseguir um empregão heuieheuhe`);
 console.log("Para assim entrar no mercado de trabalho para ganhar experiência, ao mesmo tempo estudando mais e mais")
-console.log("Para futuramente realizar meu sonho/objetivo principal :3 (por curiosidade meu sonho é ser rica :) e vou ser uhauahua)")
+console.log("Para futuramente realizar meu sonho/objetivo principal :3 (por curiosidade meu sonho é ser rica :) e vou ser uhauahua)") 

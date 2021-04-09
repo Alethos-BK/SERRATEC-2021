@@ -15,4 +15,4 @@ console.log("QUARTA: " + dia + tarde + noite);
 console.log("QUINTA: " + dia + tarde + noite);
 console.log("SEXTA: " + dia + tarde + noite);
 console.log("SÁBADO: " + dia + tarde + noite);
-console.log("DOMINGO: " + dia + tarde + noite);
+console.log("DOMINGO: " + dia + tarde + noite); 

@@ -35,4 +35,4 @@
     forma = forma + batedeira;
 
     console.log(`Leve a ${forma} ao forno e assen por 40 min`);
-    
+     

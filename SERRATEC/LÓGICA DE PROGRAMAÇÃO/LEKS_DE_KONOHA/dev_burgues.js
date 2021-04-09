@@ -1,12 +1,12 @@
 /**
     hamburgueria
 
-  1. quantidade de pedidos
-  2. Monte seu hamburguer
-  3. entrega (entregar ou buscar na loja)
-  4. pergunta se deseja molho
-  5. refrigerante
-  6. valor total  
+  
+  1. Monte seu hamburguer
+  2. entrega (entregar ou buscar na loja)
+  3. pergunta se deseja molho
+  4. refrigerante
+  5. valor total  
 
  deseja pão? -- sim não
     tipo pão -- normal, artesanal
@@ -17,14 +17,11 @@
     cheddar, mozarela, catupiry
 
 deseja molho?
-  cheddar, barbecue, ketchup, maionese, molho especial
+  cheddar, barbecue, ketchup, molho especial
 
 deseja bebida?
-  suco(uva e laranja), coca, fanta, guarana, água
+  suco(laranja), coca, fanta, guarana, água
 
-valor TOTAL seu pedido está correto?
-  1- sim
-  2- nao(retornar ao inicio da hamburgueria)
 
 tipo- "Como estamos em uma pandemia não é possivel comer na loja
        deseja 1- pegar na loja 2-entrega(adicional de 2 reais)"

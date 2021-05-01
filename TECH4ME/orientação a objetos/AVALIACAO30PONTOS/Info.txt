@@ -1,0 +1,41 @@
+
+
+CLASSE PRODUTO -    OK
+    int id;
+    String nome;
+    String descricao;
+    int quantidade;
+    double valor;
+    double desconto;
+    double acrescimo;
+
+CLASSE PESSOA -     OK  
+    int id;
+    String nome;
+    String email;
+    String cpfOuCnpj;
+
+    CLASSE FILHA CLIENTE                                OK
+    CLASSE FILHA VENDEDOR - double valorComissão        OK
+
+CLASSE PEDIDO =        OK
+    int id;
+    String descricao;
+    Cliente cliente;
+    Vendedor vendedor;
+    ListaDeProdutos listaDeProdutos;
+    double acrescimo;
+    double desconto;
+    double valorTotal;
+
+REGRAS:
+    -PEDIDO COM VÁRIOS PRODUTOS(3);     OK
+    -PEDIDO >1000 DESCONTO DE 10% // <1000 DESCONTO DE 5%;      OK
+    -VENDEDOR RECEBE 5% DE COMISSÃO DO VALOR TOTAL DO PEDIDO    OK
+
+// rascunho
+    fazer 2 vendedores cada vendendo 1 pedido para o cliente    OK
+    
+    www.lojinhadofulanodetal.com.br/eletronicos
+
+

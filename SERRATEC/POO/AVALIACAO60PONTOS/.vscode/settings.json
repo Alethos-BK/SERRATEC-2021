@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "src/main/java/com/webloja/eletronicos/model",
+        "src/main/java/com/webloja/eletronicos"
+    ]
+}

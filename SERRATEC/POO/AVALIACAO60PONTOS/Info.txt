@@ -1,0 +1,76 @@
+LOJINHA DO WEB
+
+www.webloja.com.br/eletronicos
+
+1º - criar pasta            OK
+		src
+		main/java/br/com/webloja/eletronicos...
+		test
+
+2º CLASSES
+	
+	Cliente             OK
+		String nome;
+		String email;
+		String celular;
+		String cpfOuCnpj;
+		Endereco endereco;
+	
+	Endereco            OK
+		String cep;
+		String rua;
+		Integer numero;
+		String bairro;
+		String cidade;
+		String complemento;
+		String referencia;
+		
+	Produto             OK      
+		String codigo;
+		String descricao;
+		CategoriaProduto categoria;
+		Integer quantidade;
+		Double valor;
+		Double descontoo;
+		
+	CategoriaProduto        OK
+		NACIONAIS(),
+		IMPORTADOS(),
+		PROMOCAO(),
+		FRETEGRATIS();
+		
+	Pedido              OK
+		Integer numero;
+		Date dataAbertura;
+		ArrayList<Produto> listaProdutos;
+		Cliente cliente;
+		Double valorFrete;
+		Double desconto;
+		FormaPagamento formasDePagamentos;
+		Double valorTotal;
+		
+	FormaPagamento      OK
+		CARTAODECREDITO(),
+		CARTAODEDEBITO(),
+		PIX(),
+		BOLETO(),
+		PICPAY();
+		
+	EMPRESA
+		String nome;
+		Endereco endereco;
+		HashMap<Integer, Pedido> lista pedidos;
+		
+		
+	3º MÉTODOS VALOR TOTAL:
+		
+			pegarValorTotal
+				this.valorTotal += (this.valorProduto * this.quantidade) + this.desconto);
+				
+			}
+			
+	4º PROCURA POR DATA (qd chegar aq pensar melhor)
+	
+	5º cada tipo de pagamento quanto lucrou
+	
+	5º IMPRIMIR VALOR

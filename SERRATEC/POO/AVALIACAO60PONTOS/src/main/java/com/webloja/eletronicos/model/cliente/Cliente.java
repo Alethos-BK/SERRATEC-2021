@@ -67,4 +67,11 @@ public class Cliente {
     }
 
     //#endregion
+
+    public String toString(){
+        
+        return String.format("Nome: %s \n Cep: %s \n Rua: %s Nº %s Bairro: %s",
+                             this.nome, this.endereco.getCep(), this.endereco.getRua(), this.endereco.getNumero(), this.endereco.getBairro());
+    }
+
 }
